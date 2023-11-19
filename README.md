@@ -6,3 +6,12 @@
 # manejor de cores RouteHandler api driectory
 # supabase authentication and policies + supabase realtime postgre changes
 # useEffect cleaner function
+
+## Inicializar porjecto con nextjs
+`npx create-next-app@latest`
+
+## supabase
+```
+npm install @supabase/supabase-js
+npm install @supabase/ssr
+```
